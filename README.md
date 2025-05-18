@@ -119,18 +119,10 @@ int main() {
 
 ```
 
-
-
-
 ## OUTPUT
 $ ./sem.o  $ ipcs
 
-![image](https://github.com/user-attachments/assets/0c1ef43c-6d1b-490a-b36b-374d3b87cbab)
-
-
-
-
-
+![](/img/sem.png) 
 
 
 # RESULT:
